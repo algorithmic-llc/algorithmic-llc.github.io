@@ -10,7 +10,7 @@ the development of the world's fastest Datalog engines on CPUs, GPUs,
 and supercomputing clusters. At Algorithmic, LLC, we leverage our
 expertise&mdash;spanning high-performance computing, static analysis,
 database theory, reverse engineering, and compiler internals&mdash;to
-help your company with the world's most complex analytic reasoning
+help your company tackle the world's most complex analytic reasoning
 problems.</p>
 
 <p class="larger">Please <b>Contact Us</b> at <a href="mailto:consulting@algorithmic-llc.com"><tt>consulting@algorithmic-llc.com</tt></a></p>
@@ -84,4 +84,4 @@ chatting with us, feel free to reach out; we're happy to give you our
 thoughts on the future of scalable data analytics, and are interested
 in hearing yours.</p>
 
-<p class="larger">Feel free to drop us a line: <a href="mailto:consulting@algorithmic-llc.com"><tt>founders@algorithmic-llc.com</tt></a></p>
+<p class="larger">Feel free to drop us a line: <a href="mailto:consulting@algorithmic-llc.com"><tt>kris@algorithmic-llc.com</tt></a></p>
